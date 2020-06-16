@@ -49,7 +49,7 @@ header:
       # @end locale config
     url: /about.html
   
-  - title:      
+  - titles:      
       # @start locale config
       en      : &EN       Books
       en-GB   : *EN
