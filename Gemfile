@@ -5,5 +5,4 @@ gemspec
 
 gem 'jemoji'
 
-gem 'jekyll-target-blank'
 
