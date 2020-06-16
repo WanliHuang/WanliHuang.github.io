@@ -1,4 +1,5 @@
 ---
+layout: article
 title: Post with Header Image
 tags: 测试
 article_header:
