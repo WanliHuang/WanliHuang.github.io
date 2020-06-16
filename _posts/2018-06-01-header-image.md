@@ -1,6 +1,6 @@
 ---
 title: Post with Header Image
-tags: TeXt
+tags: 测试
 article_header:
   type: cover
   image:
