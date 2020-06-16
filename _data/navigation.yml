@@ -49,5 +49,5 @@ header:
       # @end locale config
     url: /about.html
   
-  - title:      GitHub
+  - title:      Books
     url:        https://github.com/WanliHuang/books
