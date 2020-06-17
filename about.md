@@ -1,15 +1,5 @@
 ---
 layout: article
-mode: immersive
-header:
-  theme: dark
-article_header:
-  type: overlay
-  theme: dark
-  background_color: '#203028'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /assets/images/cover3.jpg
 titles:
   # @start locale config
   en      : &EN       About
@@ -33,6 +23,16 @@ titles:
   fr-FR   : *FR
   fr-LU   : *FR
   # @end locale config
+mode: immersive
+header:
+  theme: dark
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#203028'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: /assets/images/cover3.jpg
 ---
 
 这是黄万力Allan的个人博客，用以记录与分享，谢谢大家的光临。
