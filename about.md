@@ -12,9 +12,12 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /assets/images/www.christiantimes.cn-wheat-field-640960_640.jpg
 ---
+
 这是黄万力Allan的个人博客，用以记录与分享，谢谢大家的光临!
 
 <!--more-->
+
+---
 
 ## 关于一粒麦子
 
