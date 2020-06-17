@@ -98,4 +98,4 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: https://github.com/WanliHuang/books
+    url: https://github.com/WanliHuang/books/blob/master/README.wiki
