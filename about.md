@@ -2,6 +2,7 @@
 layout: article
 title: 关于一粒麦子
 mode: immersive
+key: page-about
 header:
   theme: dark
 article_header:
