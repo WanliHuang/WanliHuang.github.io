@@ -13,8 +13,6 @@ article_header:
     src: /assets/images/www.christiantimes.cn-wheat-field-640960_640.jpg
 ---
 
-约翰福音12:23-26
-
 ## 关于一粒麦子
 
 “一粒麦子”来自新约圣经《约翰福音》12章23-26节：
