@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 关于一粒麦子
+title: 这是黄万力Allan的个人博客，用以记录与分享，谢谢大家的光临!
 mode: immersive
 header:
   theme: dark
@@ -14,6 +14,8 @@ article_header:
 ---
 
 约翰福音12:23-26
+
+## 关于一粒麦子
 
 “一粒麦子”来自新约圣经《约翰福音》12章23-26节：
 
