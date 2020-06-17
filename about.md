@@ -11,12 +11,7 @@ article_header:
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /assets/images/cover3.jpg
-
 ---
-
-
-
-
 
 这是黄万力Allan的个人博客，用以记录与分享，谢谢大家的光临。
 
