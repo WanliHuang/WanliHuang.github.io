@@ -1,6 +1,10 @@
 ---
 title: 梯子
-tags: 随笔|感想
+tags: 
+  # @start locale config
+  随笔
+  信仰
+  # @end locale config
 key: page-welcome
 article_header:
   type: overlay
