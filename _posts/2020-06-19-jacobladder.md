@@ -6,13 +6,13 @@ tags:
   耶稣
   # @end locale config
 key: page-jacobladder
-header:
-  theme: orange
-  background: '#333'
 article_header:
-  type: cover
-  image:
-    src: /assets/images/jacobladder6.jpeg
+  type: overlay
+  theme: dark
+  background_color: '#203028'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: /assets/images/jacobladder5.jpg
 ---
 
 #### 梯子
