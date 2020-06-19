@@ -20,9 +20,9 @@ text_skin: forest # "default" (default), "dark", "forest", "ocean", "chocolate",
 highlight_theme: tomorrow # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : 一粒麦子
-description: > # this means to ignore newlines until "Language & timezone"
-  黄万力的博客
+title   : 雅各的天梯
+description:  # this means to ignore newlines until "Language & timezone"
+  黄万力码字。本博客用来记录和分享所写的文章，涉及基督信仰、政经和社会话题、新西兰生活等等。
 
 
 ## => Language and Timezone
