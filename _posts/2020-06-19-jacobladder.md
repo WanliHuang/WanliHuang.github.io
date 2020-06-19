@@ -1,6 +1,6 @@
 ---
 title: 梯子
-tags: 随笔,感想
+tags: 随笔|感想
 key: page-welcome
 article_header:
   type: overlay
