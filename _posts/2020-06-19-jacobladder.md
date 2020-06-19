@@ -12,7 +12,7 @@ header:
 article_header:
   type: cover
   image:
-    src: /docs/assets/images/jacobladder6.jpeg
+    src: /assets/images/jacobladder6.jpeg
 ---
 
 #### 梯子
