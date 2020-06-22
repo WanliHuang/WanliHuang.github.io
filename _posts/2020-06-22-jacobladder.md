@@ -1,5 +1,5 @@
 ---
-title: 梯子的随想 -— 兼做博客序
+title: 梯子的随想 — 兼做博客序
 tags: 
   # @start locale config
   随笔
