@@ -95,18 +95,14 @@ article_header:
 
 ### 附：新西兰常见生意买卖网站：
 
-1, Trademe : https://www.trademe.co.nz/business-farming-industry/businesses-for-sale
-2, LINK BUSINESS BROKER https://linkbusiness.co.nz/
-3, ABC Business Broker https://www.businessesforsale.co.nz/
-4, CLYTH MELEOD Business broker https://www.clythbiz.co.nz/
-5, Real Estate https://www.realestate.co.nz/business/sale
-6, Resort Broker https://www.resortbrokers.co.nz 这家是专门从事旅馆酒店生意买卖的中介
+- 1, Trademe : [https://www.trademe.co.nz/business-farming-industry/businesses-for-sale](https://www.trademe.co.nz/business-farming-industry/businesses-for-sale)
+- 2, LINK BUSINESS BROKER [https://linkbusiness.co.nz/](https://linkbusiness.co.nz/)
+- 3, ABC Business Broker [https://www.businessesforsale.co.nz/](https://www.businessesforsale.co.nz/)
+- 4, CLYTH MELEOD Business broker [https://www.clythbiz.co.nz/](https://www.clythbiz.co.nz/)
+- 5, Real Estate [https://www.realestate.co.nz/business/sale](https://www.realestate.co.nz/business/sale)
+- 6, Resort Broker [https://www.resortbrokers.co.nz](https://www.resortbrokers.co.nz) 这家是专门从事旅馆酒店生意买卖的中介
 
 ---
 
-本文曾经发表于“新西兰月野兔”公众号，链接
-
-[点这里]: (https://mp.weixin.qq.com/s?__biz=MzI2NzQ2OTE1Mg==&amp;mid=2247485323&amp;idx=1&amp;sn=2d78414e6ccfbf81966ca97e34c3553f&amp;chksm=eaff2f84dd88a6927c02980f83d0ee3f113fbc8ab8a3dd6b49a7ebcb9093dec7517470165635&amp;mpshare=1&amp;scene=1&amp;srcid=&amp;sharer_sharetime=1593228047223&amp;sharer_shareid=0833d716d046e389d1d66294daad2559#rd	"留学毕业生可以创业及自雇，那么如何在新西兰买卖生意？"
-
-现重新整理更新，在本公众号发表。对于新西兰的生活，大家有什么想了解的，可以留言。如是在我能力范围内或者我有兴趣的，我会找个机会来写写相关内容。
+本文曾经发表于“新西兰月野兔”公众号，链接[点这里](https://mp.weixin.qq.com/s?__biz=MzI2NzQ2OTE1Mg==&mid=2247485323&idx=1&sn=2d78414e6ccfbf81966ca97e34c3553f&chksm=eaff2f84dd88a6927c02980f83d0ee3f113fbc8ab8a3dd6b49a7ebcb9093dec7517470165635&mpshare=1&scene=1&srcid=&sharer_sharetime=1593228047223&sharer_shareid=0833d716d046e389d1d66294daad2559#rd)。现重新整理更新，在本公众号发表。对于新西兰的生活，大家有什么想了解的，可以留言。如是在我能力范围内或者我有兴趣的，我会找个机会来写写相关内容。
 
