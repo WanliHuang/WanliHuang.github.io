@@ -21,7 +21,9 @@ typora-root-url: ..\assets\images
 
 <!--more-->
 
-新西兰买房的流程和生意买卖的流程大同小异，相信大家在网上可以搜索到不少这方面的资料，如果有兴趣阅读新西兰买卖生意的流程，可以[点击这里](https://wanlihuang.github.io/2020/06/27/buy-and-sell-small-business-in-NZ.html)。买房和买生意两者的区别主要是买卖合同上所放的条件不同。买房子所放的条件一般有Financial Condition(贷款条件)、Builder checking condition（屋况专业检查）和LIM report conditions(房屋档案查阅)等等。本文就不再重复如何在新西兰买房子，而是重点
+新西兰买房的流程和生意买卖的流程大同小异，如果有兴趣阅读新西兰买卖生意的流程，可以[点击这里](https://wanlihuang.github.io/2020/06/27/buy-and-sell-small-business-in-NZ.html)。买房和买生意两者的区别主要是买卖合同上所放的条件不同。买房子所放的条件一般有Financial Condition(贷款条件)、Builder checking condition（屋况专业检查）和LIM report conditions(房屋档案查阅)等等。相信大家在网上可以搜索到不少买房流程的资料，本文就不再重复如何在新西兰买房子，而是将重点放在如何调查一栋房子的各种情况。
+
+
 
 ---
 
