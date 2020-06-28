@@ -3,10 +3,9 @@ title: 在新西兰买房如何做功课
 tags: 
   # @start locale config
   新西兰
-  生意
   生活
   # @end locale config
-key: page-buysellbusiness
+key: page-investigateproperty
 article_header:
   type: overlay
   theme: dark
@@ -17,6 +16,8 @@ article_header:
 typora-copy-images-to: ..\assets\images
 typora-root-url: ..
 ---
+
+
 
 买房是人生大事，因为大笔的资金甚至借贷投入到买房当中，所以大家对买房是非常地谨慎又谨慎，在决定买一栋房子之前，总是想尽力了解更多，以期做出正确的决策。
 
