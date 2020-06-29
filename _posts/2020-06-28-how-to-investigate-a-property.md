@@ -33,22 +33,26 @@ typora-root-url: ..
 
 ## 房产档案 （Property file）
 
-到康嫂的网站比如奥克兰市政厅网站首页，在Search（搜索）的地方输入“property file”，最后可以找到“how to order a property  file”的网页[https://www.aucklandcouncil.govt.nz/buying-property/order-property-report/Pages/order-property-file.aspx](https://www.aucklandcouncil.govt.nz/buying-property/order-property-report/Pages/order-property-file.aspx)。 这个网页上说明了，可以去奥克兰哪些地点可以用市政厅的电脑查阅房产档案，去看之前要实现预定（pre-order）,这样康嫂可以事先为你准备好。要花个20，30纽刀。其实更好的办法是预定一份让康嫂存在USB盘里寄给你。预定可以使用在线（Online）申请，个人亲临康嫂接待处以及邮寄申请表等等方式来完成。奥克兰市政厅接受预定后，会在10个工作日内将所有和该房产相关的档案资料都收集制作好，存入USB邮寄给你。费用大概在60-70刀。这个时间和费用每个城市的康嫂都不同。像我所在的地区康嫂，可能是因为人口少，只要5个工作日，费用只要40纽刀就可以了。因为和房产相关的各种资料散布在不同的部门，市政厅要有专人花时间来收集整理这些资料，所以需要时间和费用。
+到康嫂的网站比如奥克兰市政厅网站首页，在Search（搜索）的地方输入“property file”，最后可以找到“how to order a property  file”的网页[https://www.aucklandcouncil.govt.nz/buying-property/order-property-report/Pages/order-property-file.aspx](https://www.aucklandcouncil.govt.nz/buying-property/order-property-report/Pages/order-property-file.aspx)。 这个网页上说明了，可以去奥克兰哪些地点可以用市政厅的电脑查阅房产档案，去看之前要事先预定（pre-order）,这样康嫂可以先为你准备好相关材料。这个要花20，30纽刀。其实更好的办法是预定一份让康嫂存在USB盘里寄给你。预定可以使用在线（Online）申请、个人亲临康嫂接待处以及邮寄申请表等等方式来完成。奥克兰市政厅接受预定后，会在10个工作日内将所有和该房产相关的档案资料都收集制作好，存入USB邮寄给你。费用大概在60-70刀。这个时间和费用每个城市的康嫂都不同。像我所在的地区康嫂，可能是因为人口少，只要5个工作日，费用只要40纽刀就可以了。因为和房产相关的各种资料散布在不同的部门，市政厅要有专人花时间来收集整理这些资料，所以需要时间和费用。
 
 房产档案包括了这栋房子从最开始设计的图纸、施工过程各种验收环节的文档、扩建改建（如有）施工图纸、各类批文以及房契等等。如果是近期的房子，还会有康嫂颁发的CCC（Code Compliance Certificate）证书，可以简单的理解成验收证书。真的够你看几个晚上，好好钻研，里面有很多有用的信息，都靠你自己做功课了，这里就不展开。当然各个房子的资料多少都不尽相同，和房子所经历的岁月有多大的沧桑有关。比如最近一两年新的房子，资料估计就很简单，基本上就是原始施工图为主。如果是老房子经历多次扩建改建，资料可能就很丰富。需要注意的是
 
-1. 依靠房产档案并不能保证查出房子出过什么问题。除非房子的维修是需要向康嫂报批的，康嫂会记录下来，不然其他的普通维修，康嫂是无从知道。
+1. 依靠房产档案并不能保证查出房子出过什么问题。除非房子的维修是需要向康嫂报批的，康嫂会记录下来，不然其他的普通维修，康嫂是无从知道。因此专业人士的房屋检查报告（Builder Report）就很重要了。
 2. 对比房地产档案的资料和房子的现状以及中介提供的材料，可能可以看出哪些地方是违规扩建或者改建。
+
+![IMG_9992[1]](/assets/images/IMG_9992[1].JPG)
 
 ## 地理信息系统 （GIS 或 GeoMap）
 
-到康嫂的网站比如奥克兰市政厅网站首页，在Search（搜索）的地方输入“GIS”找到GeoMap或者在首页什么地方就应该可以看到GeoMap或者类似的字眼，进入GeoMap页面，奥克兰康嫂的是[https://www.aucklandcouncil.govt.nz/geospatial/geomaps/Pages/default.aspx](https://www.aucklandcouncil.govt.nz/geospatial/geomaps/Pages/default.aspx) 。Open GeoMaps，接受Terms and Conditions的免责声明，我们就到了GIS信息系统。如下图所示：
+到康嫂的网站比如奥克兰市政厅网站首页，在Search（搜索）的地方输入“GIS”找到GeoMap或者在首页什么地方就应该可以看到GeoMap或者类似的字眼，进入GeoMap页面，奥克兰康嫂的是[https://www.aucklandcouncil.govt.nz/geospatial/geomaps/Pages/default.aspx](https://www.aucklandcouncil.govt.nz/geospatial/geomaps/Pages/default.aspx) 。Open GeoMaps，接受Terms and Conditions的免责声明，我们就到了GIS信息系统。如下图所示。因为篇幅所限，这里不一步一步手把手的教你如何使用这个地理信息系统，只能笼统的介绍一下，还需要靠你自己去摸索(Explore)。GeoMap最上方地址（address）搜索，可以在这里搜你想要了解的房子。在左侧是这栋房子的一些基本情况，包括房契（Title）号码，地块的编号（Legal Description），政府估价，缴纳地税等等，都可以仔细看看。
 
 ![aucklandGIS_1](/assets/images/aucklandGIS_1.png)
 
-因为篇幅所限，这里不一步一步手把手的教你如何使用这个地理信息系统，只能笼统的介绍一下，还需要靠你自己去摸索(Explore)。GeoMap最上方地址（address）搜索，可以在这里搜你想要了解的房子。在左侧是这栋房子的一些基本情况，包括房契（Title）号码，地块的编号（Legal Description），政府估价，缴纳地税等等，都可以仔细看看。
+上面这个图是地形图，大家可以从图上凹凸的样子，可以看出这栋房子是坐落在一个高台上。我们可以选择等高线（contours）模式。从下图我们可以看出这栋房子在一个山顶上，它的南面就是陡峭的山坡。
 
-上面这个图是地形图，大家可以从图上凹凸的样子，可以看出这栋房子是坐落在一个高台上。界面上有一排的工具按钮（如下图），可以好好的研究一下，查看各种资料。
+![1593387181(1)](/assets/images/1593387181(1).png)
+
+界面上有一排的工具按钮（如下图），可以好好的研究一下，查看各种资料。
 
 ![toolbar](/assets/images/toolbar.png)
 
@@ -56,7 +60,11 @@ typora-root-url: ..
 
 ![1593338406(1)](/assets/images/1593338406(1).jpg)
 
-比如那个AERIAL按钮里面有过往好多年的卫星图，我选择了2010-2011年的卫星图。妈也，我那时的车停在车库门口呢，哈哈。
+再按那个AERIAL按钮，里面有过往好多年的卫星图
+
+![1593387592(1)](/assets/images/1593387592(1).png)
+
+我顺便看了下2010-2011年的卫星图，放大一看，妈耶，我那时的车停在车库门口呢，哈哈。（下图）
 
 ![1593343182(1)](/assets/images/1593343182(1).png)
 
@@ -64,7 +72,7 @@ typora-root-url: ..
 
 ![1593343626(1)](/assets/images/1593343626(1).png)
 
-此外还可以看到很多东西，这里不一一详细说明，靠自己慢慢摸索，在很多项目名字的右边有个“i”的符号，那个是详细说明这个项目是什么意思，你点这个"i"就明白。下面是几个例子。
+此外还可以看到很多很有趣的东西，这里不一一详细说明，靠自己慢慢摸索，在很多项目名字的右边有个“i”的符号，那个是详细说明这个项目是什么意思，你点这个"i"就明白。下面是几个例子。
 
 比如说这里有个Flood plain
 
@@ -98,17 +106,35 @@ Property Guru 网址是[https://www.corelogic.co.nz/](https://www.corelogic.co.n
 
 ## 估价网站
 
-新西兰有好几个电脑估价的网站，可以用来参考。
+新西兰有好几个估价的网站，可以用来参考。这些估价网站，是使用计算机系统，根据一些数学模型来自动估价，并未到现场查看房屋后再估价，不一定准确，银行一般也不会承认，但是可以作为我们买房子的参考依据。
 
 - Trademe Insight [https://www.trademe.co.nz/property/insights/]( https://www.trademe.co.nz/property/insights/)
 - Oneroof [https://www.oneroof.co.nz/](https://www.oneroof.co.nz/)
 - MyValocity [https://myvalocity.co.nz/]( https://myvalocity.co.nz/)
 
-此外还有政府网站[https://www.settled.govt.nz/](https://www.settled.govt.nz/)，里面有很多关于买房卖房的有用信息，可以仔细阅读。
+此外还有政府网站[https://www.settled.govt.nz/](https://www.settled.govt.nz/)，里面有很多关于买房卖房的有用信息，可以仔细阅读。各地的康嫂网站有大量关于房产的信息，一定要好好挖掘。
 
 当然，花钱请专业的建筑师上门检查屋况的报告（builder report），是十分宝贵的一手资料。现在有些买家可能还会要求进行毒屋检测，去查看一下这栋房子原来有没有人在里面吸毒或者制造毒品。
 
 以上信息，希望能够帮助到大家！:-)  如你觉得哪个朋友用得上，可以转发给他/她。
+
+![IMG_9427[1]](/assets/images/IMG_9427[1].JPG)
+
+附录：新西兰各主要城市的地理信息系统
+
+- 奥克兰 Auckland [https://www.aucklandcouncil.govt.nz/geospatial/geomaps/Pages/default.aspx](https://www.aucklandcouncil.govt.nz/geospatial/geomaps/Pages/default.aspx)
+- 哈密尔顿 Hamilton [http://hcc.maps.arcgis.com/home/index.html](http://hcc.maps.arcgis.com/home/index.html)
+- Waipa District Council [https://www.waipadc.govt.nz/our-services/mapsonline](https://www.waipadc.govt.nz/our-services/mapsonline)
+- 陶朗加 Tauranga [https://www.tauranga.govt.nz/exploring/maps/council-map-viewer-mapi]( https://www.tauranga.govt.nz/exploring/maps/council-map-viewer-mapi)
+- 罗托鲁阿 Rotorua [https://www.rotorualakescouncil.nz/Pages/Maps.aspx](https://www.rotorualakescouncil.nz/Pages/Maps.aspx)
+- 陶波 Taupo [https://www.taupodc.govt.nz/property-and-rates/maps-online](https://www.taupodc.govt.nz/property-and-rates/maps-online)
+- Napier [http://www.gis.napier.govt.nz/intramaps80/default.htm?project=NCC&module=Property](http://www.gis.napier.govt.nz/intramaps80/default.htm?project=NCC&module=Property)
+- 北帕 Palmerston North [https://geosite.pncc.govt.nz/MapGallery/](https://geosite.pncc.govt.nz/MapGallery/)
+- 新普利茅斯 New Plymouth [https://atlas.npdc.govt.nz/arcgis/apps/webappviewer/index.html](https://atlas.npdc.govt.nz/arcgis/apps/webappviewer/index.html)
+- 惠灵顿 Wellington [https://gis.wcc.govt.nz/LocalMaps/Gallery/](https://gis.wcc.govt.nz/LocalMaps/Gallery/)
+- 基督城 Christchurch [https://canterburymaps.govt.nz/help/map-viewer/](https://canterburymaps.govt.nz/help/map-viewer/)
+- 达尼丁 Dunedin  [https://www.dunedin.govt.nz/do-it-online/maps-and-photos](https://www.dunedin.govt.nz/do-it-online/maps-and-photos)
+- 皇后镇 Queenstown [https://www.qldc.govt.nz/do-it-online/maps](https://www.qldc.govt.nz/do-it-online/maps ) 
 
 ---
 
