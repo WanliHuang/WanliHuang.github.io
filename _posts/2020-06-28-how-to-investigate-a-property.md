@@ -140,5 +140,5 @@ Property Guru 网址是[https://www.corelogic.co.nz/](https://www.corelogic.co.n
 
 对于新西兰的生活，大家有什么想了解的，可以留言。如果是网上的信息比较少或者不齐全，又在我能力范围内或者我有兴趣的，我会找个机会来写写相关内容。
 
-[![Tip me via PayPal](https://www.paypalobjects.com/zh_XC/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TDFWVKVKGKKZ6)
+---
 

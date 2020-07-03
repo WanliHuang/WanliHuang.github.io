@@ -114,6 +114,3 @@ typora-root-url: ..\assets\images
 本文曾经发表于“新西兰月野兔”公众号，链接[点这里](https://mp.weixin.qq.com/s?__biz=MzI2NzQ2OTE1Mg==&mid=2247485323&idx=1&sn=2d78414e6ccfbf81966ca97e34c3553f&chksm=eaff2f84dd88a6927c02980f83d0ee3f113fbc8ab8a3dd6b49a7ebcb9093dec7517470165635&mpshare=1&scene=1&srcid=&sharer_sharetime=1593228047223&sharer_shareid=0833d716d046e389d1d66294daad2559#rd)。现重新整理更新，在本公众号发表。对于新西兰的生活，大家有什么想了解的，可以留言。如果是网上的信息比较少或者不齐全，又在我能力范围内或者我有兴趣的，我会找个机会来写写相关内容。
 
 ---
-
-[![Tip me via PayPal](https://www.paypalobjects.com/zh_XC/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TDFWVKVKGKKZ6)
-

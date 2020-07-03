@@ -29,10 +29,4 @@ article_header:
 
 寥寥数言，姑且作为自己博客的序言。
 
-
-
----
-
-[![Tip me via PayPal](https://www.paypalobjects.com/zh_XC/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TDFWVKVKGKKZ6)
-
 ---
